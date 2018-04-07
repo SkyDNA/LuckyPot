@@ -1,0 +1,10 @@
+name: LuckyPot
+main: LuckyPot\Main
+version: 1.2
+api: [3.0.0-ALPHA11]
+author: FreakingDev
+
+commands:
+ addpot:
+  desctiption: Add Floating Text
+  permission: luckypot.addpot
